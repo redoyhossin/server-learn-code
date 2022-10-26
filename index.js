@@ -14,7 +14,16 @@ app.get('/', (req, res) => {
 
 app.get('/allproduct', (req, res) => {
     res.send(productdata)
-})
+});
+
+app.get('/allproduct/:id', (req, res) => {
+    const id = req.params.id;
+    const singleproduct = productdata?.find((p) => p.id === id);
+    if (!singleproduct) {
+        res.send('No data found');
+    }
+    res.send(singleproduct)
+});
 
 
 

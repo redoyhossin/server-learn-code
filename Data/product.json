@@ -1,7 +1,7 @@
 [
   {
     "id": "6358debba33fb28013342d23",
-    "money": "$2,440.74",
+    "money": "$65",
     "picture": "https://ibb.co/dmnk25g",
     "name": "Kotlin",
     "description": "Complete Financial Analyst Course With Kotlin",
@@ -9,7 +9,7 @@
   },
   {
     "id": "6358debbda49fb03234b5d9a",
-    "money": "$3,140.28",
+    "money": "$75",
     "picture": "https://ibb.co/x7xcXct",
     "name": "Swift",
     "description": "Swift Programming Can Be Used For Android",
@@ -17,7 +17,7 @@
   },
   {
     "id": "6358debb849367fc6bc5d12c",
-    "money": "$3,979.92",
+    "money": "$60",
     "picture": "https://ibb.co/HpNm3LS",
     "name": "PHP",
     "description": "The Complete JavaScript Build Real Projects!",
@@ -25,22 +25,22 @@
   },
   {
     "id": "6358debbef92d786188f4d53",
-    "money": "$1,911.29",
+    "money": "55",
     "picture": "https://ibb.co/H73Dz7x",
-    "name": "Cheryl Howard",
+    "name": "R",
     "description": "Learn statistical and graphical programming with R",
     "details": "R is a programming language for statistical and graphical programming. It is widely used among statisticians and data miners for data analysis. It holds profound importance in data analysis, financial domains, and telecom sectors.It has extended libraries for interactive graphics.Object-oriented programming language. Supports cross-platform operation.Highly extensible.The top companies using R are Flipkart, Amazon, Google, and LinkedIn. There is a huge shortage of people with expertise in R so learning this language can be a bright career choice."
   },
   {
     "id": "6358debb6ec1f27da7eac522",
-    "money": "$3,301.37",
+    "money": "66",
     "picture": "https://ibb.co/fFv2Tj7",
     "name": "Python",
     "description": "Learn Data Science With Python Pandas",
     "details": "Python can be regarded as the future of programming languages. As per the latest statistics, Python is the maincoding language for around 80% of developers. The presence of extensive libraries in Python facilitates artificial intelligencedata science, and machine learning processes. Currently, Python is trending and can be regarded as the king of programminglanguages.It is also an absolutely interesting language for beginners and at Geeksforgeeks we have curated a special Python Programmin Foundation -Self-Paced course where one can learn all the basics in one place. So learning this programminglanguage in 2022 promises you success and growth. It is one of the most lucrative languages that offers amazing features like:Easy to learn and code. Extensive libraries and frameworks that support a plethora of applications.Incorporated the variants of Java and C like CPython, Jython, etc. GUI support.Companies working on Python:Facebook, Spotify, Netflix, etc."
   },
   {
-    "id": "6358debb6ec1f27da7eac522",
+    "id": "45",
     "money": "$3,301.37",
     "picture": "https://ibb.co/MpWQWPL",
     "name": "Matlab",
