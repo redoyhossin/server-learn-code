@@ -6,10 +6,15 @@ app.use(cors());
 
 const Port = process.env.Port || 5000;
 
+const productdata = require('./Data/product.json');
+
 app.get('/', (req, res) => {
     res.send('now servar running');
 });
 
+app.get('/allproduct', (req, res) => {
+    res.send(productdata)
+})
 
 
 
