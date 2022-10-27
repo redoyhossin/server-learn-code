@@ -1,48 +1,48 @@
 [
   {
-    "id": "6358debba33fb28013342d23",
+    "id": 1,
     "money": "$65",
-    "picture": "https://ibb.co/dmnk25g",
+    "picture": "https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/12/tes_gen_blog_code6-800x412.jpg",
     "name": "Kotlin",
     "description": "Complete Financial Analyst Course With Kotlin",
     "details": " Kotlin is a cross-platform programming language designed to develop apps. It is being used by more than 60% of android developers. Kotlin beholds fourth place among the fastest-growing programming language on several renowned indices. Some of the prominent features of Kotlin are: Concise code and structured concurrency. Enhanced security features. Coding is approximately 20% less as compared to Java. It is 100% interoperable. Companies working on Kotlin are Pinterest, Uber, Trello, Amazon, etc."
   },
   {
-    "id": "6358debbda49fb03234b5d9a",
+    "id": 2,
     "money": "$75",
-    "picture": "https://ibb.co/x7xcXct",
+    "picture": "https://sudanhr.com/wp-content/uploads/2022/07/sofware-developer-thinking-while-touching-beard-while-typing-laptop-sitting-desk-with-multiple-screens-parsing-code-focused-database-admin-working-with-team-coding-background_482257-33556.jpg",
     "name": "Swift",
     "description": "Swift Programming Can Be Used For Android",
     "details": "It is a robust programming language developed by Apple Inc. It is used to create apps for iOS, watchOS, macOS, and many more. It can be seen as the future of high-performance and secured applications. So sooner it will reach the top level of programming languages. It offers some amazing features like:  Easy to understand and maintain.  Speeds development process. Enhanced performance. Supports dynamic libraries.Companies working on Swift are Apple, Instagram, Uber, and Slack"
   },
   {
-    "id": "6358debb849367fc6bc5d12c",
+    "id":3,
     "money": "$60",
-    "picture": "https://ibb.co/HpNm3LS",
+    "picture": "https://cdn-galmn.nitrocdn.com/GSQzEdMFdIGgicqYAambSetFochNVMes/assets/static/optimized/rev-623338c/blog/wp-content/uploads/2019/08/what-is-programming.png",
     "name": "PHP",
     "description": "The Complete JavaScript Build Real Projects!",
     "details": "PHP is one of the general-purpose scripting languages that will  continue to hold its importance in the upcoming years. It is among the first server-side language that can be embedded with  HTML to add functionality to web pages. Due to     the increasing online trend, PHP developers are in high demand. Some of  the astonishing features are:  Simple and easy to   learn. Faster than other scripting languages  Highly secure to prevent threats and attacks.Amazing websites like Facebook, Yahoo andWikipedia run on PHP"
   },
   {
-    "id": "6358debbef92d786188f4d53",
-    "money": "55",
-    "picture": "https://ibb.co/H73Dz7x",
+    "id": 4,
+    "money": "$55",
+    "picture": "https://res.cloudinary.com/highereducation/image/upload/f_auto,fl_lossy,q_auto/w_400,c_fill,f_auto,fl_lossy,q_auto/v1561662977/BestColleges.com/computer-programming-careers.jpg",
     "name": "R",
     "description": "Learn statistical and graphical programming with R",
     "details": "R is a programming language for statistical and graphical programming. It is widely used among statisticians and data miners for data analysis. It holds profound importance in data analysis, financial domains, and telecom sectors.It has extended libraries for interactive graphics.Object-oriented programming language. Supports cross-platform operation.Highly extensible.The top companies using R are Flipkart, Amazon, Google, and LinkedIn. There is a huge shortage of people with expertise in R so learning this language can be a bright career choice."
   },
   {
-    "id": "6358debb6ec1f27da7eac522",
-    "money": "66",
-    "picture": "https://ibb.co/fFv2Tj7",
+    "id": 5,
+    "money": "$66",
+    "picture": "https://cdn.uarizonabootcamp.com/wp-content/uploads/sites/56/2020/12/tes_gen_blog_image_8-800x412.jpg",
     "name": "Python",
     "description": "Learn Data Science With Python Pandas",
     "details": "Python can be regarded as the future of programming languages. As per the latest statistics, Python is the maincoding language for around 80% of developers. The presence of extensive libraries in Python facilitates artificial intelligencedata science, and machine learning processes. Currently, Python is trending and can be regarded as the king of programminglanguages.It is also an absolutely interesting language for beginners and at Geeksforgeeks we have curated a special Python Programmin Foundation -Self-Paced course where one can learn all the basics in one place. So learning this programminglanguage in 2022 promises you success and growth. It is one of the most lucrative languages that offers amazing features like:Easy to learn and code. Extensive libraries and frameworks that support a plethora of applications.Incorporated the variants of Java and C like CPython, Jython, etc. GUI support.Companies working on Python:Facebook, Spotify, Netflix, etc."
   },
   {
-    "id": "45",
-    "money": "$3,301.37",
-    "picture": "https://ibb.co/MpWQWPL",
+    "id": 6,
+    "money": "$45",
+    "picture": "https://cdn.dubootcamp.com/wp-content/uploads/sites/66/2020/05/shutterstock_753780223-850x412.jpg",
     "name": "Matlab",
     "description": "Matlab to build machine learning and deep learning applications",
     "details": "Matlab is a proprietary programming language owned by MathWorks and originally released in the mid-1980s. It is built specifically for use by scientists and engineers. Programmers use Matlab to build machine learning and deep learningapplications. Matlab-based programs enable users to analyze data, create algorithms, process images, and verify research. Generally, Matlab is easier to learn than other programming languages on our list. MathWorks’ website has an extensive section dedicated to answering questions about Matlab"
